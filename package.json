@@ -2,6 +2,8 @@
   "dependencies": {
     "twilio": "~1.6.0",
     "firebase": "~1.0.11",
-    "imagesnap": "git+https://github.com/trevordixon/imagesnap.js"
+    "imagesnap": "git+https://github.com/trevordixon/imagesnap.js",
+    "q": "~1.0.1",
+    "s3-streaming-upload": "~0.1.11"
   }
 }
